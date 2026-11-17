@@ -79,5 +79,5 @@ The AI answer pipeline has five stages: a safety check, retrieval from the appro
 
 ## Contact
 
-Emeka Joseph Onyema, MSIT candidate, University of the People.
+Joseph Onyema, MSIT candidate, University of the People.
 Source code is available on request.
